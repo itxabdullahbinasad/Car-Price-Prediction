@@ -15,7 +15,6 @@ This repository contains a Python project for predicting car prices using machin
 - [Evaluation](#evaluation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -72,9 +71,6 @@ Feel free to customize the code and experiment with different machine learning a
 
 If you'd like to contribute to this project, please fork the repository, create a new branch, and submit a pull request. We welcome contributions and improvements from the community.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
