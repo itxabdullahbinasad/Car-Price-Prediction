@@ -74,4 +74,3 @@ If you'd like to contribute to this project, please fork the repository, create 
 
 ---
 
-You can include this README file in your GitHub repository to provide an overview of your project to potential users and collaborators.
